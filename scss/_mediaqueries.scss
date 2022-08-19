@@ -39,7 +39,7 @@
         padding: 50px 0;
         display: block;
     }
-
+    
     #sobremi .contenedor-foto {
         max-width: 200px;
         margin: auto;
@@ -59,11 +59,11 @@
     }
 
     #servicios {
-        padding: 50px 15px;
+        padding: 50px 15px;   
     }
 
     #servicios .fila {
-        display: block;
+        display: block;  
     }
 
     #servicios .fila .servicio {
@@ -84,5 +84,9 @@
         grid-template-columns: 1fr 1fr 1fr 1fr;
         width: 100%;
         position: absolute;
+    }
+     .sobremi {
+        padding: 50px 0;
+        display: block;
     }
 }
