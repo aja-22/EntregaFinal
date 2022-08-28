@@ -1,0 +1,5 @@
+[33m7688298[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m IDndentación de todo el codigo
+[33mc992534[m[33m ([m[1;31morigin/master[m[33m)[m realice cambios en footer
+[33ma6260d7[m realice cambio en pagina sobre mi y pagina servicio
+[33m50886cc[m Coloque navbar en todas las paginas
+[33m235f39d[m[33m ([m[1;31morigine/master[m[33m)[m cree Map en variables Scss y aplique en sobremi:hover, agregue map-get y en servicio&:hover, agregue palabra clave en meta y descripción en todas las paginas. En servicios.hr aplique el mixin
