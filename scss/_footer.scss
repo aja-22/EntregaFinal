@@ -15,15 +15,17 @@ footer {
     }
 
     footer {
-    padding: 50px 0;
-    display: flex; }
+        padding: 50px 0;
+        display: flex;
+    }
 
-    .red-social a{
+    .red-social a {
         color: white;
     }
-    .grupo-1{
+
+    .grupo-1 {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
-    
+
 }
